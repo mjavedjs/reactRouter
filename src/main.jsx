@@ -1,6 +1,6 @@
 import { createRoot } from 'react-dom/client'
 import {  createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Layout from './layout'
+import Layout from './Layout';
 import About from './screens/About'
 import Home from './screens/Home'
 import Contant from './screens/Contant'
